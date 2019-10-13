@@ -1,5 +1,5 @@
 # starter web project
-
+Ths is a sample project
 ## Introduction
 
 ## purpose
