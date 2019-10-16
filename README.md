@@ -8,4 +8,7 @@ introduced purpose texts
 this is deployment area
 ## How to contribute
 
+### copyright 
+
+Git. Training.
 
