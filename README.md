@@ -8,7 +8,9 @@ introduced purpose texts
 this is deployment area
 ## How to contribute
 
+this is sample1.
+
 ### copyright 
 
 Git. Training.
-another testing
+another testinig
