@@ -1,6 +1,7 @@
 # starter web project
 Ths is a sample project
 sample1 for main rebase
+editing ad mergin from remote
 ## Introduction
 ## purpose
 introduced purpose texts
