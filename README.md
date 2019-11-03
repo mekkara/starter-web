@@ -17,3 +17,4 @@ branch rebase
 
 Git. Training.
 another testinig
+git tag testing
